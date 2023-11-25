@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+    <html>
+        <title>Apple</title>
+            <body>
+                <header style="background-color:black">
+                    <h1 style="font-family: sans-serif; text-align: center; color: white">Apple</h1>
+                </header>
+                    <main>
+                        <h3 style="font-family: sans-serif">Первый iPhone</h5>
+                        <h5 style="font-family: sans-serif">Первый iPhone был сделан в 2007 году, и он был первым смартфоном в мире.</h5>
+                        <img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fsupport.apple.com%2Fru-ru%2FHT201296&psig=AOvVaw1TV46ewahBwWvhluxwI9LC&ust=1700978839576000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCKCZ34--3oIDFQAAAAAdAAAAABAD" width="60" height="70"/>
+                        <h3 style="font-family: sans-serif">Характеристики Apple iPhone 2G </br>
+Стандарт: GSM (850, 900, 1800, 1900 MHz)</br>
+Размер: 115 x 65 x 11.6 мм</br>
+Вес: 135 г</br>
+Экран: 320 x 480 px (TFT , 3.5") 16 млн. цветов</br>
+Память: 8 Gb или 16 Gb в зависимости от модели</br>
+Процессор: Samsung S3C2410 с частотой 624 Mhz.</br>
+Операционная система: Mac OS X : 10.4.8.</br>
+Батарея: Li-Ion, 250 ч.</h3>
+                    </main>
+                        <footer style="background-color:black">
+                            <h2 style="font-family: sans-serif; color: white">Номер телефона: 8(912)697-10-28</h2>
+                        </footer>
+            </body>
+    </html>  
